@@ -172,4 +172,10 @@ footer.png        → fundo do footer
 
 ---
 
+## 📄 Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [`LICENSE.txt`](LICENSE.txt) para mais informações.
+
+---
+
 © 2026 SHOTLY · Jhonatan Pedro
